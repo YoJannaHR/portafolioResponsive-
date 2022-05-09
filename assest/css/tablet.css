@@ -162,7 +162,7 @@
     
     .circulo .dos {
         border-radius: 100%;
-        background: #3f0ed3;
+        background: #302c3c;
         width: 390px;
         height: 390px;
         grid-column: 3/4;
@@ -939,7 +939,7 @@
         grid-column: 1/6;
         grid-row: 8/9;
         display: grid;
-        grid-template-columns: 20% 200px 20% 200px 20%;
+        grid-template-columns: auto 200px 200px auto;
         grid-template-rows: auto auto auto;
     
     }
